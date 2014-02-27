@@ -1,10 +1,41 @@
-<gap:plugin name="Device" value="org.apache.cordova.core.Device"/>
-<gap:plugin name="File" value="org.apache.cordova.core.FileUtils" />
-<gap:plugin name="FileTransfer" value="org.apache.cordova.core.FileTransfer" />
-<gap:plugin name="Globalization" value="org.apache.cordova.core.globalization" />
-<gap:plugin name="SplashScreen" value="org.apache.cordova.core.SplashScreen" />
+<widget id="com.uckhandla.schoolquizapp" version="0.0.1">
+	<name>School Quiz App</name>
+	<description>
+		SchoolQuizApp is an evaluation quiz for elementary school student for grade 6-7-8. 
+	</description>
+	<author email="ucksocial@gmail.com" href="http://uckhandla.com">
+		Ujamshi Khandla
+	</author>
+	<content src="index.html" />
+	<access origin="*" />
+	<preference name="Fullscreen" value="true" />
+	<preference name="WebViewBounce" value="true" />
+	<preference name="Orientation" value="default" />
+	<preference name="DisallowOverscroll" value="true"/>
+	<preference name="BackgroundColor" value="0xffffffff"/>
+	<preference name="SplashScreen" value="mySplash"/>
+	<preference name="SplashScreenDelay" value="3000"/>
+	<preference name="InAppBrowserStorageEnabled" value="true"/>
+	<preference name="ErrorUrl" value="myErrorPage.html"/>
+	
+	<feature name="Device">
+        <param name="android-package" value="org.apache.cordova.device.Device" />
+    </feature>
+    <feature name="File">
+        <param name="android-package" value="org.apache.cordova.core.FileUtils" />
+    </feature>
+    <feature name="FileTransfer">
+        <param name="android-package" value="org.apache.cordova.core.FileTransfer" />
+    </feature>
+    <feature name="SplashScreen">
+        <param name="android-package" value="org.apache.cordova.core.SplashScreen" />
+    </feature>
+    <feature name="Globalization">
+        <param name="android-package" value="org.apache.cordova.core.globalization" />
+    </feature>
 
-<preference name="SplashScreen" value="mySplash"/>
-<preference name="SplashScreenDelay" value="3000"/>
-<preference name="InAppBrowserStorageEnabled" value="true"/>
-<preference name="ErrorUrl" value="myErrorPage.html"/>
+</widget>
+    
+
+
+
