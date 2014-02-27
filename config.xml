@@ -1,0 +1,19 @@
+<preference name="phonegap-version" value="3.3.0" />
+
+<gap:platform name="android" />
+
+<gap:plugin name="SplashScreen" value="org.apache.cordova.core.SplashScreen" />
+<gap:plugin name="File" value="org.apache.cordova.core.FileUtils" />
+<gap:plugin name="FileTransfer" value="org.apache.cordova.core.FileTransfer" />
+<gap:plugin name="Globalization" value="org.apache.cordova.core.globalization" /
+<gap:plugin name="Media" value="org.apache.cordova.core.AudioHandler" />
+
+
+<preference name="android-minSdkVersion" value="10" />
+<preference name="android-targetSdkVersion" value="10" />
+<preference name="android-maxSdkVersion" value="19" />
+
+<preference name="android-installLocation" value="preferExternal" />
+
+
+<preference name="splash-screen-duration" value="10000"/>
