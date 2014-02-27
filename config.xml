@@ -12,8 +12,15 @@
 	
 	<content src="index.html" />
 	<access origin="*" />
+
+	<gap:platform name="android" />
+	<preference name="android-minSdkVersion" value="10" />
+	<preference name="android-maxSdkVersion" value="19" />
+	<preference name="android-installLocation" value="preferExternal" />
+
+
 	
-	 <preference name="phonegap-version" value="3.1.0"> 
+	<preference name="phonegap-version" value="3.1.0">
 
 	<preference name="Fullscreen" value="true" />
 	<preference name="WebViewBounce" value="true" />
