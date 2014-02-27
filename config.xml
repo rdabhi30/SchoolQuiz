@@ -5,7 +5,7 @@
 <gap:plugin name="SplashScreen" value="org.apache.cordova.core.SplashScreen" />
 <gap:plugin name="File" value="org.apache.cordova.core.FileUtils" />
 <gap:plugin name="FileTransfer" value="org.apache.cordova.core.FileTransfer" />
-<gap:plugin name="Globalization" value="org.apache.cordova.core.globalization" /
+<gap:plugin name="Globalization" value="org.apache.cordova.core.globalization" />
 <gap:plugin name="Media" value="org.apache.cordova.core.AudioHandler" />
 
 
