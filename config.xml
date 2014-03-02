@@ -3,7 +3,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "com.uckhandla.schoolquizapp"
+        id = "com.uckhandla.schoolquiz"
         version = "0.0.1">
 
     <name>School Quiz App</name>
@@ -12,7 +12,7 @@
         SchoolQuizApp is an evaluation quiz for elementary school student for grade 6-7-8. 
     </description>
 
-    <author href="http://uckhandla.com" email="support@uckhandla.com">
+    <author href="http://uckhandla.com">
         Ujamshi Khandla
     </author>
 
