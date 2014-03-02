@@ -8,5 +8,10 @@ Note: The questions of all quiz are based on curriculum of standard 6-7-8 at Guj
 <a href="https://github.com/uckhandla/SchoolQuiz/archive/master.zip">Download SchoolQuiz SourceCode</a>
 
 ###Download SchoolQuiz Android App 
-<a href="https://build.phonegap.com/apps/799112/download/android/">Download SchoolQuiz Android App</a>
+<a href="https://build.phonegap.com/apps/803961/download/android">Download SchoolQuiz Android App</a>
+
+Or Scan QR Code
+
+<img src="https://chart.googleapis.com/chart?chs=116x116&cht=qr&chl=http://build.phonegap.com/apps/803961/install/?qr_key=NUpW5KTXaUss7XNqNp5B&chld=L|1&choe=UTF-8" />
+
 
