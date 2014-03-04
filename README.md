@@ -26,7 +26,7 @@ Or Scan QR Code
 
 
 ###Authors and Contributors
-Ujamshi Khandla [@uckhandla](https://github.com/uckhandla) and Mahendra Solanki founded this SchoolQuiz.
+Ujamshi Khandla [@uckhandla](https://github.com/uckhandla) and Mahendra Solanki [@mmsolanki](https://github.com/mmsolanki) founded this SchoolQuiz.
 
 ###Support or Contact
 Having trouble with SchoolQuiz? Check out the documentation at http://uckhandla.github.io/SchoolQuiz/.
