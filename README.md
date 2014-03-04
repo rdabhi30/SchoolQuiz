@@ -10,6 +10,11 @@ Note: The questions of all quiz are based on curriculum of standard 6-7-8 at Guj
 ###Play SchoolQuiz Online
 <a href="http://uckhandla.github.io/SchoolQuiz/quizzes/index.html">Play SchoolQuiz Online</a>
 
+Or Scan QR Code
+
+<p><img src="https://chart.googleapis.com/chart?chs=116x116&amp;cht=qr&amp;chl=http://uckhandla.github.io/SchoolQuiz/quizzes/index.html/?qr_key=NUpW5KTXaUss7XNqNp5B&amp;chld=L%7C1&amp;choe=UTF-8"></p>
+
+
 ###Download SchoolQuiz SourceCode
 <a href="https://github.com/uckhandla/SchoolQuiz/archive/master.zip">Download SchoolQuiz SourceCode</a>
 
