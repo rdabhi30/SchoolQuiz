@@ -12,7 +12,7 @@ Note: The questions of all quiz are based on curriculum of standard 6-7-8 at Guj
 
 Or Scan QR Code
 
-<p><img src="https://chart.googleapis.com/chart?chs=116x116&amp;cht=qr&amp;chl=http://uckhandla.github.io/SchoolQuiz/quizzes/index.html/?qr_key=NUpW5KTXaUss7XNqNp5B&amp;chld=L%7C1&amp;choe=UTF-8"></p>
+<p><img src="https://chart.googleapis.com/chart?chs=128x128&amp;cht=qr&amp;chl=http://uckhandla.github.io/SchoolQuiz/quizzes/index.html/?qr_key=NUpW5KTXaUss7XNqNp5B&amp;chld=L%7C1&amp;choe=UTF-8"></p>
 
 
 ###Download SchoolQuiz SourceCode
@@ -23,7 +23,7 @@ Or Scan QR Code
 
 Or Scan QR Code
 
-<img src="https://chart.googleapis.com/chart?chs=116x116&cht=qr&chl=http://build.phonegap.com/apps/803961/install/?qr_key=NUpW5KTXaUss7XNqNp5B&chld=L|1&choe=UTF-8" />
+<img src="https://chart.googleapis.com/chart?chs=128x128&cht=qr&chl=http://build.phonegap.com/apps/803961/install/?qr_key=NUpW5KTXaUss7XNqNp5B&chld=L|1&choe=UTF-8" />
 
 
 ###Authors and Contributors
