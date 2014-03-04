@@ -21,3 +21,9 @@ Or Scan QR Code
 <img src="https://chart.googleapis.com/chart?chs=116x116&cht=qr&chl=http://build.phonegap.com/apps/803961/install/?qr_key=NUpW5KTXaUss7XNqNp5B&chld=L|1&choe=UTF-8" />
 
 
+###Authors and Contributors
+Ujamshi Khandla [@uckhandla](https://github.com/uckhandla) and Mahendra Solanki founded this SchoolQuiz.
+
+###Support or Contact
+Having trouble with SchoolQuiz? Check out the documentation at http://uckhandla.github.io/SchoolQuiz/.
+
