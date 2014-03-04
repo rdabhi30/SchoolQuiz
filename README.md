@@ -18,11 +18,11 @@ Or Scan QR Code
 <a href="https://github.com/uckhandla/SchoolQuiz/archive/master.zip">Download SchoolQuiz SourceCode</a>
 
 ###Download SchoolQuiz Android App 
-<a href="https://build.phonegap.com/apps/803961/download/android">Download SchoolQuiz Android App</a>
+<a href="http://bit.ly/OVwRoG">Download SchoolQuiz Android App</a>
 
 Or Scan QR Code
 
-<img src="http://chart.apis.google.com/chart?chs=128x128&cht=qr&chld=|1&chl=http://build.phonegap.com/apps/803961/install/" />
+<img src="http://chart.apis.google.com/chart?chs=128x128&cht=qr&chld=|1&chl=http://bit.ly/OVwRoG" />
 
 
 ###Authors and Contributors
