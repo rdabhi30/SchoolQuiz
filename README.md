@@ -2,7 +2,7 @@ SchoolQuiz
 =============
 This is a quiz application using [Modified / Hacked SlickQuiz](https://github.com/JewlOfTheLotus/SlickQuiz).
 
-Note: The questions of all quiz are based on curriculum of standard 6-7-8 of the Gujarat Government Primary Schools.
+*Note:* The questions of all quiz are based on curriculum of standard 6-7-8 of the Gujarat Government Primary Schools.
 
 ###SchoolQuiz Pages
 <a href="http://uckhandla.github.io/SchoolQuiz/">Visit SchoolQuiz Pages</a>
