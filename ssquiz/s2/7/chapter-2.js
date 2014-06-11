@@ -26,7 +26,7 @@ var quizJSON = {
                 },
                 {
                     "option": "મોસમી",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "option": "વ્યાપારી",
@@ -34,11 +34,11 @@ var quizJSON = {
                 },
                 {
                     "option": "નૈઋત્ય",
-                    "correct": true
+                    "correct": false
                 } // no comma here
             ],
             "correct": "<p><span>તમારો જવાબ સાચો છે.</span> સરસ</p>",
-            "incorrect": "<p><span>તમારો જવાબ ખોટો છે. સાચો જવાબ: નૈઋત્ય</span> વધુ પ્રયત્ન કરો.</p>" // no comma here
+            "incorrect": "<p><span>તમારો જવાબ ખોટો છે. સાચો જવાબ: મોસમી</span> વધુ પ્રયત્ન કરો.</p>" // no comma here
         },
         { // Question 2
             "q": "આમાંથી કયા રાજ્યમાં સૌથી વધુ વરસાદ પડે છે ?",

@@ -850,7 +850,7 @@ var quizJSON = {
             "a": [
                 {
                     "option": "અખિલ હિંદ સમાવયતંત્રની સ્થાપના કરવી",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "હિંદના પ્રાંતોને કુલ ત્રણ જૂથોમાં વહેંચવા",
@@ -862,7 +862,7 @@ var quizJSON = {
                 },
                 {
                     "option": "આપેલા બધા",
-                    "correct": false
+                    "correct": true
                 } // no comma here
             ],
             "correct": "<p><span>તમારો જવાબ સાચો છે.</span> આવી જ મહેનત ચાલું રાખો, સફળતા તમને મળશે જ.</p>",

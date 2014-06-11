@@ -1363,7 +1363,7 @@ var quizJSON = {
                     "correct": false
                 },
                 {
-                    "option": "ડાંગ જિલ્લ્લામાં",
+                    "option": "ડાંગ જિલ્લામાં",
                     "correct": false
                 },
                 {
@@ -1386,7 +1386,7 @@ var quizJSON = {
                     "correct": false
                 },
                 {
-                    "option": "ડાંગ જિલ્લ્લામાં",
+                    "option": "ડાંગ જિલ્લામાં",
                     "correct": false
                 },
                 {
@@ -1409,7 +1409,7 @@ var quizJSON = {
                     "correct": false
                 },
                 {
-                    "option": "કચ્છ જિલ્લ્લામાં",
+                    "option": "કચ્છ જિલ્લામાં",
                     "correct": true
                 },
                 {
@@ -1418,7 +1418,7 @@ var quizJSON = {
                 } // no comma here
             ],
             "correct": "<p><span>તમારો જવાબ સાચો છે.</span> સરસ</p>",
-            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: કચ્છ જિલ્લ્લામાં</p> વધુ પ્રયત્ન કરો.</p>" // no comma here
+            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: કચ્છ જિલ્લામાં</p> વધુ પ્રયત્ન કરો.</p>" // no comma here
         },
         { // Question 62
             "q": "જેસોર રીંછ અભ્યારણ્ય કયા જિલ્લામાં આવેલું છે ?",
@@ -1432,7 +1432,7 @@ var quizJSON = {
                     "correct": false
                 },
                 {
-                    "option": "કચ્છ જિલ્લ્લામાં",
+                    "option": "કચ્છ જિલ્લામાં",
                     "correct": false
                 },
                 {
@@ -1455,7 +1455,7 @@ var quizJSON = {
                     "correct": false
                 },
                 {
-                    "option": "કચ્છ જિલ્લ્લામાં",
+                    "option": "કચ્છ જિલ્લામાં",
                     "correct": false
                 },
                 {
@@ -1478,7 +1478,7 @@ var quizJSON = {
                     "correct": true
                 },
                 {
-                    "option": "કચ્છ જિલ્લ્લામાં",
+                    "option": "કચ્છ જિલ્લામાં",
                     "correct": false
                 },
                 {
@@ -1501,7 +1501,7 @@ var quizJSON = {
                     "correct": false
                 },
                 {
-                    "option": "કચ્છ જિલ્લ્લામાં",
+                    "option": "કચ્છ જિલ્લામાં",
                     "correct": false
                 },
                 {
@@ -1524,7 +1524,7 @@ var quizJSON = {
                     "correct": true
                 },
                 {
-                    "option": "કચ્છ જિલ્લ્લામાં",
+                    "option": "કચ્છ જિલ્લામાં",
                     "correct": false
                 },
                 {
@@ -1547,7 +1547,7 @@ var quizJSON = {
                     "correct": false
                 },
                 {
-                    "option": "મહેસાણા જિલ્લ્લામાં",
+                    "option": "મહેસાણા જિલ્લામાં",
                     "correct": true
                 },
                 {
@@ -1556,7 +1556,7 @@ var quizJSON = {
                 } // no comma here
             ],
             "correct": "<p><span>તમારો જવાબ સાચો છે.</span> આવી જ મહેનત ચાલું રાખો, સફળતા તમને મળશે જ.</p>",
-            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: મહેસાણા જિલ્લ્લામાં</p>  વધુ પ્રયત્ન કરો.</p>" // no comma here
+            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: મહેસાણા જિલ્લામાં</p>  વધુ પ્રયત્ન કરો.</p>" // no comma here
         },
         { // Question 68
             "q": "વાંસદા રાષ્ટ્રીય ઉદ્યાન કયા જિલ્લામાં આવેલું છે ?",
@@ -1570,7 +1570,7 @@ var quizJSON = {
                     "correct": false
                 },
                 {
-                    "option": "વલસાડ જિલ્લ્લામાં",
+                    "option": "વલસાડ જિલ્લામાં",
                     "correct": true
                 },
                 {
@@ -1579,7 +1579,7 @@ var quizJSON = {
                 } // no comma here
             ],
             "correct": "<p><span>તમારો જવાબ સાચો છે.</span> તમે તો હોંશિયાર છો.</p>",
-            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વલસાડ જિલ્લ્લામાં</p>  થોડું ધ્યાન આપો.</p>" // no comma here
+            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વલસાડ જિલ્લામાં</p>  થોડું ધ્યાન આપો.</p>" // no comma here
         },
         { // Question 69
             "q": "વેળાવદર કાળિયાર રાષ્ટ્રીય ઉદ્યાન કયા જિલ્લામાં આવેલું છે ?",
@@ -1593,7 +1593,7 @@ var quizJSON = {
                     "correct": true
                 },
                 {
-                    "option": "વલસાડ જિલ્લ્લામાં",
+                    "option": "વલસાડ જિલ્લામાં",
                     "correct": false
                 },
                 {

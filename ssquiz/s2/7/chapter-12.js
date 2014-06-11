@@ -758,7 +758,7 @@ var quizJSON = {
             "a": [
                 {
                     "option": "મૉંટ્રિઑલ",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "option": "ટરૉંટો",

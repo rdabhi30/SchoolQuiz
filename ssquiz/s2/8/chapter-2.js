@@ -458,47 +458,47 @@ var quizJSON = {
             "q": "જળપ્રદૂષણની અસર શું થાય છે ?",
             "a": [
                 {
-                    "option": "જળચર પ્રાણીઓ નાશ પામે",
+                    "option": "જળચર પ્રાણીઓ વૃદ્ધિ પામે",
                     "correct": false
                 },
                 {
                     "option": "ગંદા પાણીથી શાકભાજી પ્રદૂષકોથી ભરેલા પાકે",
-                    "correct": false
+                    "correct": true
                 },
                 {
-                    "option": "જળપ્રદૂષણથી રોગ ફેલાય",
+                    "option": "જળપ્રદૂષણથી રોગ ન ફેલાય",
                     "correct": false
                 },
                 {
                     "option": "આપેલા ત્રણેય",
-                    "correct": true
+                    "correct": false
                 } // no comma here
             ],
             "correct": "<p><span>તમારો જવાબ સાચો છે.</span> શાબાશ</p>",
-            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: આપેલા ત્રણેય</p>  વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
+            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ગંદા પાણીથી શાકભાજી પ્રદૂષકોથી ભરેલા પાકે</p>  વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
         },
         { // Question 21
             "q": "જળપ્રદૂષણથી બચવાનો ઉપાય કયો છે ?",
             "a": [
                 {
                     "option": "ઉદ્યોગોનું પાણી શુદ્ધ કરી જળાશયમાં ઠાલવવું ",
+                    "correct": true
+                },
+                {
+                    "option": "સરકારે ઉદ્યોગો ઉપર નિયંત્રણ રાખવું નહીં",
                     "correct": false
                 },
                 {
-                    "option": "સરકારે ઉદ્યોગો ઉપર કડક નિયંત્રણ રાખવું",
-                    "correct": false
-                },
-                {
-                    "option": "પાણીનો વિવેકપૂર્વક ઉપયોગ કરવો",
+                    "option": "પાણીનો અવિવેકપૂર્વક ઉપયોગ કરવો",
                     "correct": false
                 },
                 {
                     "option": "આપેલા ત્રણેય",
-                    "correct": true
+                    "correct": false
                 } // no comma here
             ],
             "correct": "<p><span>તમારો જવાબ સાચો છે.</span> ખૂબ જ સુંદર</p>",
-            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: આપેલા ત્રણેય</p> આગળ સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
+            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઉદ્યોગોનું પાણી શુદ્ધ કરી જળાશયમાં ઠાલવવું </p> આગળ સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
         },
         { // Question 22
             "q": "હવાનું પ્રદૂષણ થવાનું કારણ કયું છે ?",
@@ -528,46 +528,46 @@ var quizJSON = {
             "a": [
                 {
                     "option": "ગુંગળાઈને પ્રાણીઓનું મૃત્યુ થાય",
+                    "correct": true
+                },
+                {
+                    "option": "ઉડતા ધૂળના રજકણોથી હવા શુદ્ધ થાય",
                     "correct": false
                 },
                 {
-                    "option": "ઉડતા ધૂળના રજકણોથી રોગ થાય",
-                    "correct": false
-                },
-                {
-                    "option": "ઝેરી વાયુથી ઍસિડ વરસાદ થાય",
+                    "option": "ઝેરી વાયુથી ઍસિડ વરસાદ ન થાય",
                     "correct": false
                 },
                 {
                     "option": "આપેલા ત્રણેય",
-                    "correct": true
+                    "correct": false
                 } // no comma here
             ],
             "correct": "<p><span>તમારો જવાબ સાચો છે.</span> તમે તો હોંશિયાર છો.</p>",
-            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: આપેલા ત્રણેય</p>  થોડું ધ્યાન આપો.</p>" // no comma here
+            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ગુંગળાઈને પ્રાણીઓનું મૃત્યુ થાય</p>  થોડું ધ્યાન આપો.</p>" // no comma here
         },
         { // Question 24
             "q": "હવાનું પ્રદૂષણ અટકાવવાનો ઉપાય કયો છે ?",
             "a": [
                 {
                     "option": "આપેલા ત્રણેય",
-                    "correct": true
+                    "correct": false
                 },
                 {
-                    "option": "ઝેરી ગૅસ ફિલ્ટર થાય તેવા સાધનો વિકસાવવા",
+                    "option": "ઝેરી ગૅસ ઉત્પન્ન થાય તેવા સાધનો વિકસાવવા",
                     "correct": false
                 },
                 {
                     "option": "પર્યાવરણ જાગૃતિ અભિયાન ચલાવવું",
-                    "correct": false
+                    "correct": true
                 },
                 {
-                    "option": "વાહનોમાં P.U.C.નો કડક અમલ કરવો",
+                    "option": "વાહનોમાં P.U.C.નો  અમલ ન કરવો",
                     "correct": false
                 } // no comma here
             ],
             "correct": "<p><span>તમારો જવાબ સાચો છે.</span> અભિનંદન</p>",
-            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: આપેલા ત્રણેય</p>  સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
+            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: પર્યાવરણ જાગૃતિ અભિયાન ચલાવવું</p>  સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
         },
         { // Question 25
             "q": "જમીનનું પ્રદૂષણ થવાનું કારણ કયું છે ?",
@@ -666,46 +666,46 @@ var quizJSON = {
             "a": [
                 {
                     "option": "કારખાનામાં ચાલતા યંત્રોથી",
+                    "correct": true
+                },
+                {
+                    "option": "મોટા લાઉડસ્પીકરો ન વગાડવાથી",
                     "correct": false
                 },
                 {
-                    "option": "મોટા લાઉડસ્પીકરો વગાડવાથી",
-                    "correct": false
-                },
-                {
-                    "option": "ફટાકડા ફોડવાથી",
+                    "option": "ફટાકડા ન ફોડવાથી",
                     "correct": false
                 },
                 {
                     "option": "આપેલા ત્રણેય",
-                    "correct": true
+                    "correct": false
                 } // no comma here
             ],
             "correct": "<p><span>તમારો જવાબ સાચો છે.</span> આમને આમ આગળ વધો.</p>",
-            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: આપેલા ત્રણેય</p>  થોડી મહેનતની જરૂર છે.</p>" // no comma here
+            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: કારખાનામાં ચાલતા યંત્રોથી</p>  થોડી મહેનતની જરૂર છે.</p>" // no comma here
         },
         { // Question 30
             "q": "ધ્વનિ પ્રદૂષણથી થતી અસર કઈ છે ?",
             "a": [
                 {
                     "option": "બહેરાશ આવે",
+                    "correct": true
+                },
+                {
+                    "option": "માનસિક સ્વાસ્થ્ય ઉપર અસર થતી નથી",
                     "correct": false
                 },
                 {
-                    "option": "માનસિક સ્વાસ્થ્ય ઉપર અસર પડે",
-                    "correct": false
-                },
-                {
-                    "option": "ચીડિયાપણું વધી જાય",
+                    "option": "ચીડિયાપણું ઘટી જાય",
                     "correct": false
                 },
                 {
                     "option": "આપેલા ત્રણેય",
-                    "correct": true
+                    "correct": false
                 } // no comma here
             ],
             "correct": "<p><span>તમારો જવાબ સાચો છે.</span> શાબાશ</p>",
-            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: આપેલા ત્રણેય</p>  વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
+            "incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: બહેરાશ આવે</p>  વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
         },
         { // Question 31
             "q": "ધ્વનિ પ્રદૂષણ અટકાવવા કયો ઉપાય કરવો જોઈએ ?",
@@ -724,7 +724,7 @@ var quizJSON = {
                 },
                 {
                     "option": "આપેલા ત્રણેય",
-                    "correct": false
+                    "correct": true
                 } // no comma here
             ],
             "correct": "<p><span>તમારો જવાબ સાચો છે.</span> ખૂબ જ સુંદર</p>",
