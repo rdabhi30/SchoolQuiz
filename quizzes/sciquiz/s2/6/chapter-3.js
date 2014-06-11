@@ -1,7 +1,3 @@
-// Setup your quiz text and questions here
-
-// NOTE: pay attention to commas, IE struggles with those bad boys
-
 var quizJSON = {
 	"info": {
 		"name": "પ્રકરણ - 3 પદાર્થની અવસ્થાઓ",
@@ -35,13 +31,13 @@ var quizJSON = {
 				{
 					"option": "ચાર",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સરસ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ત્રણ</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આવી જ મહેનત ચાલું રાખો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ત્રણ</p>મહેનત કરવાની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 2
-			"q": "કઈ અવસ્થામાં પદાર્થેને નિશ્ચિત આકાર હોય છે ?",
+			"q": "કઈ અવસ્થામાં પદાર્થેને નિશ્ર્ચિત આકાર હોય છે ?",
 			"a": [
 				{
 					"option": "પ્રવાહી",
@@ -58,11 +54,11 @@ var quizJSON = {
 				{
 					"option": "ઘન, પ્રવાહી, અને વાયુ - ત્રણેય",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સુંદર</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઘન</p>   થોડું ધ્યાન આપો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સફળ થવા માટે શુભેચ્છા.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઘન</p>વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
+		},
 		{ // Question 3
 			"q": "કઈ અવસ્થામાં પદાર્થેને ચોક્કસ કદ હોતુ નથી ?",
 			"a": [
@@ -81,12 +77,11 @@ var quizJSON = {
 				{
 					"option": "ઘન, પ્રવાહી, અને વાયુ - ત્રણેય",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સુંદર</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાયુ</p>   થોડું ધ્યાન આપો.</p>" // no comma here
-        },
-
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>ખૂબ જ સુંદર.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાયુ</p>શીખવામાં ધ્યાન આપો.</p>" // no comma here
+		},
 		{ // Question 4
 			"q": "કઈ અવસ્થામાં અણુઓ ખૂબ જ નજીક-નજીક ગોઠવાયેલા હોય છે ?",
 			"a": [
@@ -105,12 +100,11 @@ var quizJSON = {
 				{
 					"option": "ઘન, પ્રવાહી, અને વાયુ - ત્રણેય",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> વાહ ! તમને તો સરસ આવડે છે.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઘન</p>   સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
-        },
-
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આવી જ મહેનત ચાલું રાખો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઘન</p>વધુ પ્રયત્ન કરો.</p>" // no comma here
+		},
 		{ // Question 5
 			"q": "કઈ અવસ્થામાં અણુઓ છૂટાછવાયા ગોઠવાયેલા હોય છે ?",
 			"a": [
@@ -129,14 +123,13 @@ var quizJSON = {
 				{
 					"option": "ઘન, પ્રવાહી, અને વાયુ - ત્રણેય",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> વાહ ! તમને તો સરસ આવડે છે.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાયુ</p>   સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
-        },
-
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સરસ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાયુ</p>શીખવામાં ધ્યાન આપો.</p>" // no comma here
+		},
 		{ // Question 6
-			"q": "કઈ અવસ્થામાં પદાર્થ નિશ્ચિત આકાર ધરાવતો નથી, પરંતુ નિશ્ચિત કદ ધરાવે છે ?",
+			"q": "કઈ અવસ્થામાં પદાર્થ નિશ્ર્ચિત આકાર ધરાવતો નથી, પરંતુ નિશ્ર્ચિત કદ ધરાવે છે ?",
 			"a": [
 				{
 					"option": "ઘન",
@@ -153,11 +146,11 @@ var quizJSON = {
 				{
 					"option": "ઘન, પ્રવાહી, અને વાયુ - ત્રણેય",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> આમને આમ આગળ વધો.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: પ્રવાહી</p>   થોડી મહેનતની જરૂર છે.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આમને આમ આગળ વધો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: પ્રવાહી</p>મહેનત કરવાની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 7
 			"q": "કઈ અવસ્થામાં પદાર્થ પોતાને મળતી બધી જગ્યામાં ફેલાઈ જાય છે ?",
 			"a": [
@@ -176,11 +169,11 @@ var quizJSON = {
 				{
 					"option": "ઘન, પ્રવાહી, અને વાયુ - ત્રણેય",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> શાબાશ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાયુ</p>   વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>શાબાશ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાયુ</p>વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
+		},
 		{ // Question 8
 			"q": "કોઇ પણ પદાર્થે રોકેલી જગ્યાને શું કહે છે ?",
 			"a": [
@@ -199,11 +192,11 @@ var quizJSON = {
 				{
 					"option": "આકાર",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> ખૂબ જ સુંદર</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: કદ</p>   આગળ સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>તમે તો હોંશિયાર છો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: કદ</p>વધુ પ્રયત્ન કરો.</p>" // no comma here
+		},
 		{ // Question 9
 			"q": "કઈ અવસ્થામાં પદાર્થ સૌથી વધુ દબનીય હોય છે ?",
 			"a": [
@@ -222,11 +215,11 @@ var quizJSON = {
 				{
 					"option": "ઘન, પ્રવાહી, અને વાયુ - ત્રણેય",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> આવી જ મહેનત ચાલું રાખો, સફળતા તમને મળશે જ.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાયુ</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>અભિનંદન.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાયુ</p>નિયમિત ગૃહકાર્ય કરો.</p>" // no comma here
+		},
 		{ // Question 10
 			"q": "કઈ અવસ્થામાં પદાર્થના અણુઓ વચ્ચે આકર્ષણ બળ સૌથી વધુ હોય છે ?",
 			"a": [
@@ -245,11 +238,11 @@ var quizJSON = {
 				{
 					"option": "ઘન, પ્રવાહી, અને વાયુ - ત્રણેય",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> તમે તો હોંશિયાર છો.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઘન</p>   થોડું ધ્યાન આપો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આવી જ મહેનત ચાલું રાખો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઘન</p>શીખવામાં ધ્યાન આપો.</p>" // no comma here
+		},
 		{ // Question 11
 			"q": "કઈ અવસ્થામાં પદાર્થના અણુઓ વચ્ચે આકર્ષણ બળ સૌથી ઓછુ હોય છે ?",
 			"a": [
@@ -268,11 +261,11 @@ var quizJSON = {
 				{
 					"option": "ઘન, પ્રવાહી, અને વાયુ - ત્રણેય",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> અભિનંદન</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાયુ</p>   સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સફળ થવા માટે શુભેચ્છા.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાયુ</p>વધુ પ્રયત્ન કરો.</p>" // no comma here
+		},
 		{ // Question 12
 			"q": "ઘન પદાર્થેને ગરમી આપતા તેનું કઈ અવસ્થામાં રૂપાંતર થાય છે ?",
 			"a": [
@@ -291,11 +284,11 @@ var quizJSON = {
 				{
 					"option": "એક પણ નહીં",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સફળ થવા માટે શુભેચ્છા</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: પ્રવાહી</p>   વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આમને આમ આગળ વધો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: પ્રવાહી</p>વધુ પ્રયત્ન કરો.</p>" // no comma here
+		},
 		{ // Question 13
 			"q": "પ્રવાહી પદાર્થેને ગરમી આપતા તેનું કઈ અવસ્થામાં રૂપાંતર થાય છે ?",
 			"a": [
@@ -314,12 +307,12 @@ var quizJSON = {
 				{
 					"option": "એક પણ નહીં",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સરસ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાયુ</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        },
-		{ // Question 13
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સફળ થવા માટે શુભેચ્છા.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાયુ</p>વધુ પ્રયત્ન કરો.</p>" // no comma here
+		},
+		{ // Question 14
 			"q": "પ્રવાહી પદાર્થેમાંથી ગરમી શોષી લેતા તેનું કઈ અવસ્થામાં રૂપાંતર થાય છે ?",
 			"a": [
 				{
@@ -337,12 +330,12 @@ var quizJSON = {
 				{
 					"option": "એક પણ નહીં",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સરસ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઘન</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        },
-		{ // Question 13
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>શાબાશ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઘન</p>શીખવામાં ધ્યાન આપો.</p>" // no comma here
+		},
+		{ // Question 15
 			"q": "વાયુ પદાર્થેમાંથી ગરમી શોષી લેતા તેનું કઈ અવસ્થામાં રૂપાંતર થાય છે ?",
 			"a": [
 				{
@@ -360,12 +353,12 @@ var quizJSON = {
 				{
 					"option": "એક પણ નહીં",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સરસ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાયુ</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        },
-		{ // Question 14
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સરસ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: પ્રવાહી</p>મહેનત કરવાની જરૂર છે.</p>" // no comma here
+		},
+		{ // Question 16
 			"q": "નીચેના પૈકી કયો પદાર્થ પ્રવાહી અવસ્થા ધરાવે છે ?",
 			"a": [
 				{
@@ -383,12 +376,12 @@ var quizJSON = {
 				{
 					"option": "પારો",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સુંદર</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: પાણી</p>   થોડું ધ્યાન આપો.</p>" // no comma here
-        },
-		{ // Question 14
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>તમે તો હોંશિયાર છો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: પાણી</p>વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
+		},
+		{ // Question 17
 			"q": "નીચેના પૈકી કયો પદાર્થ ઘન અવસ્થા ધરાવે છે ?",
 			"a": [
 				{
@@ -406,12 +399,12 @@ var quizJSON = {
 				{
 					"option": "પારો",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સુંદર</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: લોખંડ</p>   થોડું ધ્યાન આપો.</p>" // no comma here
-        },
-		{ // Question 14
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>શાબાશ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: લોખંડ</p>વધુ પ્રયત્ન કરો.</p>" // no comma here
+		},
+		{ // Question 18
 			"q": "નીચેના પૈકી કયો પદાર્થ વાયુ અવસ્થા ધરાવે છે ?",
 			"a": [
 				{
@@ -429,12 +422,12 @@ var quizJSON = {
 				{
 					"option": "વિમાન",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સુંદર</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વરાળ</p>   થોડું ધ્યાન આપો.</p>" // no comma here
-        },
-		{ // Question 12
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સરસ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વરાળ</p>વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
+		},
+		{ // Question 19
 			"q": "બરફને ગરમી આપતા તેનું કઈ અવસ્થામાં રૂપાંતર થાય છે ?",
 			"a": [
 				{
@@ -452,12 +445,12 @@ var quizJSON = {
 				{
 					"option": "એક પણ નહીં",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સફળ થવા માટે શુભેચ્છા</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: પાણી</p>   વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
-        },
-		{ // Question 13
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આમને આમ આગળ વધો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: પાણી</p>થોડું ધ્યાન આપો.</p>" // no comma here
+		},
+		{ // Question 20
 			"q": "પાણી પદાર્થેને ગરમી આપતા તેનું કઈ અવસ્થામાં રૂપાંતર થાય છે ?",
 			"a": [
 				{
@@ -475,12 +468,12 @@ var quizJSON = {
 				{
 					"option": "એક પણ નહીં",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સરસ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વરાળ</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        },
-		{ // Question 13
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>શાબાશ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વરાળ</p>શીખવામાં ધ્યાન આપો.</p>" // no comma here
+		},
+		{ // Question 21
 			"q": "પાણીમાંથી ગરમી શોષી લેતા તેનું કઈ અવસ્થામાં રૂપાંતર થાય છે ?",
 			"a": [
 				{
@@ -498,12 +491,12 @@ var quizJSON = {
 				{
 					"option": "એક પણ નહીં",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સરસ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: બરફ</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        },
-		{ // Question 13
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આમને આમ આગળ વધો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: બરફ</p>નિયમિત ગૃહકાર્ય કરો.</p>" // no comma here
+		},
+		{ // Question 22
 			"q": "વરાળમાંથી ગરમી શોષી લેતા તેનું કઈ અવસ્થામાં રૂપાંતર થાય છે ?",
 			"a": [
 				{
@@ -521,10 +514,10 @@ var quizJSON = {
 				{
 					"option": "એક પણ નહીં",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સરસ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: પાણી</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        } // no comma here
-    ]
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સરસ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: પાણી</p>વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
+		} // no comma here 
+	]
 };

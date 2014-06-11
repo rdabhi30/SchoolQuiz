@@ -1,7 +1,3 @@
-// Setup your quiz text and questions here
-
-// NOTE: pay attention to commas, IE struggles with those bad boys
-
 var quizJSON = {
 	"info": {
 		"name": "પ્રકરણ - 1 પ્રાણીજગત",
@@ -35,11 +31,11 @@ var quizJSON = {
 				{
 					"option": "પાંચ",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સરસ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ત્રણ.</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>અભિનંદન.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ત્રણ</p>નિયમિત ગૃહકાર્ય કરો.</p>" // no comma here
+		},
 		{ // Question 2
 			"q": "પ્રાણીઓના રહેઠાણને આધારે કેટલા પ્રકાર પાડવામાં આવે છે ?",
 			"a": [
@@ -58,11 +54,11 @@ var quizJSON = {
 				{
 					"option": "પાંચ",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સુંદર</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ત્રણ.</p>   થોડું ધ્યાન આપો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આવી જ મહેનત ચાલું રાખો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ત્રણ</p>નિયમિત ગૃહકાર્ય કરો.</p>" // no comma here
+		},
 		{ // Question 3
 			"q": "પાણીમાં અને જમીન પર એમ બન્ને સ્થળે રહેતા પ્રાણીઓને શું કહે છે ?",
 			"a": [
@@ -81,11 +77,11 @@ var quizJSON = {
 				{
 					"option": "આરોહી",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> વાહ ! તમને તો સરસ આવડે છે.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઉભયજીવી.</p>   સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>વાહ ! તમને તો સરસ આવડે છે.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઉભયજીવી</p>વધુ પ્રયત્ન કરો.</p>" // no comma here
+		},
 		{ // Question 4
 			"q": "આમાંથી કયુ પ્રાણી ઊડી શકે છે પણ તે પક્ષી નથી ?",
 			"a": [
@@ -104,11 +100,11 @@ var quizJSON = {
 				{
 					"option": "કાંગારુ",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> આમને આમ આગળ વધો.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ચામાચીડિયું.</p>   થોડી મહેનતની જરૂર છે.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આમને આમ આગળ વધો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ચામાચીડિયું</p>થોડું ધ્યાન આપો.</p>" // no comma here
+		},
 		{ // Question 5
 			"q": "દરમાં રહે છે પણ પગ નથી ?",
 			"a": [
@@ -127,11 +123,11 @@ var quizJSON = {
 				{
 					"option": "કીડી",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> શાબાશ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: સાપ.</p>   વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સફળ થવા માટે શુભેચ્છા.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: સાપ</p>થોડી મહેનતની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 6
 			"q": "હાડકાંવાળું પ્રાણી કયું છે ?",
 			"a": [
@@ -150,11 +146,11 @@ var quizJSON = {
 				{
 					"option": "ગોકળગાય",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> ખૂબ જ સુંદર</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: સાપ.</p>   આગળ સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આમને આમ આગળ વધો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: સાપ</p>થોડી મહેનતની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 7
 			"q": "કયું પ્રાણી હાડકાં વગરનું છે ?",
 			"a": [
@@ -173,11 +169,11 @@ var quizJSON = {
 				{
 					"option": "દેડકો",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> આવી જ મહેનત ચાલું રાખો, સફળતા તમને મળશે જ.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વીંછી.</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આમને આમ આગળ વધો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વીંછી</p>વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
+		},
 		{ // Question 8
 			"q": "કયું પ્રાણી બચ્ચાંને જન્મ આપે છે ?",
 			"a": [
@@ -196,11 +192,11 @@ var quizJSON = {
 				{
 					"option": "કબૂતર",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> તમે તો હોંશિયાર છો.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઉંદર.</p>   થોડું ધ્યાન આપો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>તમે તો હોંશિયાર છો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઉંદર</p>થોડી મહેનતની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 9
 			"q": "કયું પ્રાણી ઈંડા મૂકે છે ?",
 			"a": [
@@ -219,11 +215,11 @@ var quizJSON = {
 				{
 					"option": "કૂતરો",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> અભિનંદન</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: મગર.</p>   સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>ખૂબ જ સુંદર.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: મગર</p>થોડી મહેનતની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 10
 			"q": "જીવજંતુ કયું છે ?",
 			"a": [
@@ -242,11 +238,11 @@ var quizJSON = {
 				{
 					"option": "સાપ",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સફળ થવા માટે શુભેચ્છા</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: મચ્છર.</p>   વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આવી જ મહેનત ચાલું રાખો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: મચ્છર</p>થોડી મહેનતની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 11
 			"q": "આંચળવાળું પ્રાણી કયુ છે ?",
 			"a": [
@@ -265,11 +261,11 @@ var quizJSON = {
 				{
 					"option": "શાહમૃગ",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સરસ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: સિંહ.</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સફળતા તમને મળશે જ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: સિંહ</p>વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
+		},
 		{ // Question 12
 			"q": "પાણીમાં અને જમીન પર રહેતું પ્રાણી કયું છે ? ",
 			"a": [
@@ -288,11 +284,11 @@ var quizJSON = {
 				{
 					"option": "માછલી",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સુંદર</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: દેડકો.</p>   થોડું ધ્યાન આપો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આવી જ મહેનત ચાલું રાખો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: દેડકો</p>મહેનત કરવાની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 13
 			"q": "આઠ પગવાળું પ્રાણી કયું છે ?",
 			"a": [
@@ -311,11 +307,11 @@ var quizJSON = {
 				{
 					"option": "કરોળિયો",
 					"correct": true
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> વાહ ! તમને તો સરસ આવડે છે.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: કરોળિયો.</p>   સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સફળતા તમને મળશે જ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: કરોળિયો</p>વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
+		},
 		{ // Question 14
 			"q": "મિશ્રાહારી પ્રાણી કયું છે ?",
 			"a": [
@@ -334,11 +330,11 @@ var quizJSON = {
 				{
 					"option": "સિંહ",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> આમને આમ આગળ વધો.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: બિલાડી.</p>   થોડી મહેનતની જરૂર છે.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આમને આમ આગળ વધો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: બિલાડી</p>થોડી મહેનતની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 15
 			"q": "કયા સજીવને કાન હોતા નથી ? ",
 			"a": [
@@ -357,11 +353,11 @@ var quizJSON = {
 				{
 					"option": "કાચીંડો",
 					"correct": true
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> શાબાશ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: કાચીંડો.</p>   વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સફળતા તમને મળશે જ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: કાચીંડો</p>નિયમિત ગૃહકાર્ય કરો.</p>" // no comma here
+		},
 		{ // Question 16
 			"q": "મનુષ્ય કયા વર્ગનું પ્રાણી છે ?",
 			"a": [
@@ -380,11 +376,11 @@ var quizJSON = {
 				{
 					"option": "જળચર",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સરસ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: આંચળવાળા (સસ્તન).</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સફળ થવા માટે શુભેચ્છા.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: આંચળવાળા (સસ્તન)</p>શીખવામાં ધ્યાન આપો.</p>" // no comma here
+		},
 		{ // Question 17
 			"q": "વહેલ કયા વર્ગનું પ્રાણી છે ?",
 			"a": [
@@ -403,11 +399,11 @@ var quizJSON = {
 				{
 					"option": "જળચર",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સુંદર</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: આંચળવાળા (સસ્તન) .</p>   થોડું ધ્યાન આપો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સફળ થવા માટે શુભેચ્છા.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: આંચળવાળા (સસ્તન) </p>થોડું ધ્યાન આપો.</p>" // no comma here
+		},
 		{ // Question 18
 			"q": "કયું સસ્તન વર્ગનું પ્રાણી ઊડી શકે છે ?",
 			"a": [
@@ -426,11 +422,11 @@ var quizJSON = {
 				{
 					"option": "કાંગારુ",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> વાહ ! તમને તો સરસ આવડે છે.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ચામાચીંડીયું.</p>   સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>શાબાશ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ચામાચીંડીયું</p>મહેનત કરવાની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 19
 			"q": "કયું પક્ષી તણખલાં ગોઠવીને સુંદર ગૂંથ્ણીવાળો માળો બનાવે છે  ?",
 			"a": [
@@ -449,11 +445,11 @@ var quizJSON = {
 				{
 					"option": "દરજીડો",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> આમને આમ આગળ વધો.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: સુગરી.</p>   થોડી મહેનતની જરૂર છે.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>ખૂબ જ સુંદર.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: સુગરી</p>મહેનત કરવાની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 20
 			"q": "કયું પક્ષી પાંદડાં સીવીને માળો બનાવે છે ?",
 			"a": [
@@ -472,11 +468,11 @@ var quizJSON = {
 				{
 					"option": "કાગડો",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> શાબાશ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: દરજીડો.</p>   વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આવી જ મહેનત ચાલું રાખો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: દરજીડો</p>થોડું ધ્યાન આપો.</p>" // no comma here
+		},
 		{ // Question 21
 			"q": "કયા પ્રકારના પ્રાણીઓની આંખો અલ્પવિકસિત હોય છે ?",
 			"a": [
@@ -495,11 +491,11 @@ var quizJSON = {
 				{
 					"option": "મિશ્રાહારી",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> ખૂબ જ સુંદર</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: દરવાસી.</p>   આગળ સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>વાહ ! તમને તો સરસ આવડે છે.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: દરવાસી</p>નિયમિત ગૃહકાર્ય કરો.</p>" // no comma here
+		},
 		{ // Question 22
 			"q": "માછલી કયા અંગ દ્વારા પાણીમાં ઓગળેલો ઓક્સિજન મેળવે છે ?",
 			"a": [
@@ -518,11 +514,11 @@ var quizJSON = {
 				{
 					"option": "પૂછડી",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> આવી જ મહેનત ચાલું રાખો, સફળતા તમને મળશે જ.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઝાલર.</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>શાબાશ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ઝાલર</p>વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
+		},
 		{ // Question 23
 			"q": "રાત્રે ખોરાકની શોધમાં બહાર નીકળે છે તેવાં પ્રાણીઓને શું કહે છે ?",
 			"a": [
@@ -541,11 +537,11 @@ var quizJSON = {
 				{
 					"option": "આરોહી",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> તમે તો હોંશિયાર છો.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: નિશાચર.</p>   થોડું ધ્યાન આપો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સુંદર.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: નિશાચર</p>થોડું ધ્યાન આપો.</p>" // no comma here
+		},
 		{ // Question 24
 			"q": "આકાશમાં ઊડનારાં હાડકાવાળાં પ્રાણીઓને કેવા પ્રાણીઓ કહે છે ?",
 			"a": [
@@ -564,11 +560,11 @@ var quizJSON = {
 				{
 					"option": "ઉભયજીવી",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> અભિનંદન</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ખેચર.</p>   સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આવી જ મહેનત ચાલું રાખો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ખેચર</p>વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
+		},
 		{ // Question 25
 			"q": "પેટે સરકીને ચાલનાર પ્રાણી કયું છે ? ",
 			"a": [
@@ -587,11 +583,11 @@ var quizJSON = {
 				{
 					"option": "ગરોળી",
 					"correct": true
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> શાબાશ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ગરોળી.</p>   વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સફળ થવા માટે શુભેચ્છા.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ગરોળી</p>સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
+		},
 		{ // Question 26
 			"q": "વૃક્ષારોહી પ્રાણી કયું છે ?",
 			"a": [
@@ -610,11 +606,11 @@ var quizJSON = {
 				{
 					"option": "સાપ",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સરસ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ખિસકોલી.</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>અભિનંદન.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ખિસકોલી</p>મહેનત કરવાની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 27
 			"q": "કયું પ્રાણી કુદરતના સફાઈ કામદાર તરીકે ઓળખાય છે ?",
 			"a": [
@@ -633,11 +629,11 @@ var quizJSON = {
 				{
 					"option": "ગધેડું",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સુંદર</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: સમડી.</p>   થોડું ધ્યાન આપો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આમને આમ આગળ વધો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: સમડી</p>થોડું ધ્યાન આપો.</p>" // no comma here
+		},
 		{ // Question 28
 			"q": "લાંબી ડોકવાળું પ્રાણી કયું છે ?",
 			"a": [
@@ -656,11 +652,11 @@ var quizJSON = {
 				{
 					"option": "કાંગારુ",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> વાહ ! તમને તો સરસ આવડે છે.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: જિરાફ.</p>   સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આવી જ મહેનત ચાલું રાખો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: જિરાફ</p>શીખવામાં ધ્યાન આપો.</p>" // no comma here
+		},
 		{ // Question 29
 			"q": "નિશાચર પ્રાણી કયું છે ?",
 			"a": [
@@ -679,11 +675,11 @@ var quizJSON = {
 				{
 					"option": "દરજીડો",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> આમને આમ આગળ વધો.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ચામાચીડિયું.</p>   થોડી મહેનતની જરૂર છે.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સુંદર.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ચામાચીડિયું</p>થોડી મહેનતની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 30
 			"q": "પેટે સરકીને ચાલતાં પ્રાણીઓ બીજા કયા નામે ઓળખાય છે ?",
 			"a": [
@@ -702,11 +698,11 @@ var quizJSON = {
 				{
 					"option": "ખેચર",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> શાબાશ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: સરીસૃપ.</p>   વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આમને આમ આગળ વધો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: સરીસૃપ</p>વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
+		},
 		{ // Question 31
 			"q": "આંચળવાળાં પ્રાણીઓ બીજા કયા નામે ઓળખાય છે ?",
 			"a": [
@@ -725,11 +721,11 @@ var quizJSON = {
 				{
 					"option": "ખેચર",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> ખૂબ જ સુંદર</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: સસ્તન.</p>   આગળ સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>વાહ ! તમને તો સરસ આવડે છે.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: સસ્તન</p>થોડી મહેનતની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 32
 			"q": "છ પગવાળું પ્રાણી કયું છે ?",
 			"a": [
@@ -748,11 +744,11 @@ var quizJSON = {
 				{
 					"option": "ઝેમેલ",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> આવી જ મહેનત ચાલું રાખો, સફળતા તમને મળશે જ.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વંદો.</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>અભિનંદન.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વંદો</p>વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
+		},
 		{ // Question 33
 			"q": "આઠ પગવાળું પ્રાણી કયું છે ?",
 			"a": [
@@ -771,11 +767,11 @@ var quizJSON = {
 				{
 					"option": "માખી",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> તમે તો હોંશિયાર છો.</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વીંછી.</p>   થોડું ધ્યાન આપો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સરસ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વીંછી</p>શીખવામાં ધ્યાન આપો.</p>" // no comma here
+		},
 		{ // Question 34
 			"q": "આઠ કરતા વધારે પગવાળું પ્રાણી કયું છે ?",
 			"a": [
@@ -794,11 +790,11 @@ var quizJSON = {
 				{
 					"option": "વંદો",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> અભિનંદન</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: કાનખજૂરો.</p>   સાચો જવાબ આપવા પ્રયત્ન કરો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>તમે તો હોંશિયાર છો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: કાનખજૂરો</p>મહેનત કરવાની જરૂર છે.</p>" // no comma here
+		},
 		{ // Question 35
 			"q": "પાંપણ વગરનું પ્રાણી કયું છે ? ",
 			"a": [
@@ -817,11 +813,11 @@ var quizJSON = {
 				{
 					"option": "ચકલી",
 					"correct": true
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> શાબાશ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ચકલી.</p>   વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
-        },
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>આમને આમ આગળ વધો.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: ચકલી</p>નિયમિત ગૃહકાર્ય કરો.</p>" // no comma here
+		},
 		{ // Question 36
 			"q": "પાંપણવાળું પ્રાણી કયું છે ? ",
 			"a": [
@@ -840,11 +836,10 @@ var quizJSON = {
 				{
 					"option": "ચકલી",
 					"correct": false
-				} // no comma here
-            ],
-			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> શાબાશ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાંદરો.</p>   વધુ વાંચનનો મહાવરો રાખો.</p>" // no comma here
-        }
-
-    ]
+				} // no comma here 
+			],
+			"correct": "<p><span>તમારો જવાબ સાચો છે.</span>સરસ.</p>",
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: વાંદરો</p>વધુ પ્રયત્ન કરો.</p>" // no comma here
+		} // no comma here 
+	]
 };

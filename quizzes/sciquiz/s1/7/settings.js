@@ -14,7 +14,7 @@ var defaults = {
 	backButtonText: '',
 	tryAgainText: '',
 	skipStartButton: false,
-	numberOfQuestions: 99999,
+	numberOfQuestions: 9999,
 	randomSort: true,
 	randomSortQuestions: true,
 	randomSortAnswers: true,
