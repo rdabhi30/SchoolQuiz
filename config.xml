@@ -2,12 +2,12 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id = "com.uckhandla.schoolquiz"
-        version = "0.0.1">
+        version = "0.0.2">
 
     <name>SchoolQuiz</name>
 
     <description>
-        SchoolQuiz is an evaluation quiz for elementary school student for grade 6-7-8. 
+        SchoolQuiz is an evaluation quiz for elementary school student for grade 6-7-8. Last updated 11-Jun-2014.
     </description>
 
     <author href="http://uckhandla.com">
@@ -17,7 +17,7 @@
     <preference name="permissions" value="INTERNET"/>
 
     <!-- Customize your app and platform with the preference element. -->
-    <preference name="phonegap-version" value="3.1.0" /> <!-- all: current version of PhoneGap -->
+    <preference name="phonegap-version" value="3.3.0" /> <!-- all: current version of PhoneGap -->
     <preference name="orientation" value="default" /> <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device" value="universal" /> <!-- all: possible values handset, tablet, or universal -->
     <preference name="fullscreen" value="true" /> <!-- all: hides the status bar at the top of the screen -->
