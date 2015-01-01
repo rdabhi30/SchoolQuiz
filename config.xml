@@ -2,7 +2,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id = "com.uckhandla.schoolquiz"
-        version = "0.0.2">
+        version = "0.0.3">
 
     <name>SchoolQuiz</name>
 
@@ -17,7 +17,7 @@
     <preference name="permissions" value="INTERNET"/>
 
     <!-- Customize your app and platform with the preference element. -->
-    <preference name="phonegap-version" value="3.3.0" /> <!-- all: current version of PhoneGap -->
+    <preference name="phonegap-version" value="3.5.0" /> <!-- all: current version of PhoneGap -->
     <preference name="orientation" value="default" /> <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device" value="universal" /> <!-- all: possible values handset, tablet, or universal -->
     <preference name="fullscreen" value="true" /> <!-- all: hides the status bar at the top of the screen -->
@@ -51,5 +51,6 @@
     
     <!-- platform -->
     <gap:platform name="android" />
+    <gap:platform name="winphone" />
 
 </widget>
