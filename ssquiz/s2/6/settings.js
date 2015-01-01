@@ -1,5 +1,5 @@
 // Put all your page JS here
-var schoolname = 'શ્રી ઉઘલ પ્રાથમિક શાળા, તા.લીંબડી, જિ. સુરેન્દ્રનગર';
+var schoolname = 'શ્રી વસ્તડી પ્રાથમિક શાળા, તા.લીંબડી, જિ. સુરેન્દ્રનગર';
 var authorname = 'મહેન્દ્રસિંહ મનુભાઈ સોલંકી';
 var quizname = 'સામાજિક વિજ્ઞાન, ધોરણ-6, સત્ર-2';
 var dynamicquizname = '';
