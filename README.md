@@ -7,7 +7,7 @@ The questions of all quiz are based on curriculum of standard 6-7-8 of the Gujar
 If you use/share this quiz, please do not remove or replace the names of the authors and contributors from the quiz.
 Please give a credit to original authors and contributors who spent their valuable time and money to develop such a software and content.
 
-## We are known that some schools are using our SchoolQuiz on their website and you removed our names, it is not fair. 
+#### We are known that some schools are using our SchoolQuiz on their website and you removed our names, it is not fair. 
 However SchoolQuiz is free to use, please give a credit note at the bottom of the the pages where it displayed.
 
 ### SchoolQuiz Support or Contact
