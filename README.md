@@ -1,33 +1,14 @@
 SchoolQuiz
 =============
-This is a quiz application using [Modified / Hacked SlickQuiz](https://github.com/JewlOfTheLotus/SlickQuiz).
+This is a quiz application for standard 6-7-8.
+The questions of all quiz are based on curriculum of standard 6-7-8 of the Gujarat Government Primary Schools.
 
-*Note:* The questions of all quiz are based on curriculum of standard 6-7-8 of the Gujarat Government Primary Schools.
+### NOTE on using this quiz in schools or sharing
+If you use/share this quiz, please do not remove or replace the names of the authors and contributors from the quiz.
+Please give a credit to original authors and contributors who spent his valuable time and money to develop such a software and content.
 
-###SchoolQuiz Pages
-<a href="http://uckhandla.github.io/SchoolQuiz/">Visit SchoolQuiz Pages</a>
+### SchoolQuiz Support or Contact
+For more information or help, please visit [Ujamshi Khandla's Educational Webiste](http://uckhandla.com/edu/)
 
-###Play SchoolQuiz Online
-<a href="http://uckhandla.github.io/SchoolQuiz/quizzes/index.html">Play SchoolQuiz Online</a>
-
-Or Scan QR Code
-
-<img src="http://chart.apis.google.com/chart?chs=128x128&cht=qr&chld=|1&chl=http://uckhandla.github.io/SchoolQuiz/quizzes/index.html" />
-
-###Download SchoolQuiz SourceCode
-<a href="https://github.com/uckhandla/SchoolQuiz/archive/master.zip">Download SchoolQuiz SourceCode</a>
-
-###Download SchoolQuiz Android App 
-<a href="http://bit.ly/OVwRoG">Download SchoolQuiz Android App</a>
-
-Or Scan QR Code
-
-<img src="http://chart.apis.google.com/chart?chs=128x128&cht=qr&chld=|1&chl=http://bit.ly/OVwRoG" />
-
-
-###Authors and Contributors
+### Authors and Contributors
 Ujamshi Khandla [@uckhandla](https://github.com/uckhandla) and Mahendra Solanki [@mmsolanki](https://github.com/mmsolanki) founded this SchoolQuiz.
-
-###Support or Contact
-Having trouble with SchoolQuiz? Check out the documentation at http://uckhandla.github.io/SchoolQuiz/.
-
