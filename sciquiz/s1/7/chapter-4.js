@@ -22,7 +22,7 @@ var quizJSON = {
 			"a": [
 				{
 					"option": "0<sup>0</sup>સે",
-					"correct": true
+					"correct": false
 				},
 				{
 					"option": "90<sup>0</sup>સે",
@@ -30,7 +30,7 @@ var quizJSON = {
 				},
 				{
 					"option": "100<sup>0</sup>સે",
-					"correct": false
+					"correct": true
 				},
 				{
 					"option": "108<sup>0</sup>સે",
@@ -38,14 +38,14 @@ var quizJSON = {
 				} // no comma here
             ],
 			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સરસ</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: 0<sup>0</sup>સે</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: 100<sup>0</sup>સે</p>   વધુ પ્રયત્ન કરો.</p>" // no comma here
         },
 		{ // Question 2
 			"q": "શુદ્ધ પાણીને ઠંડુ પાડતાં તે કયા તાપમાને ઘન સ્વરૂપમાં ફેરવાય છે ?",
 			"a": [
 				{
 					"option": "0<sup>0</sup>સે",
-					"correct": false
+					"correct": true
 				},
 				{
 					"option": "4<sup>0</sup>સે",
@@ -57,11 +57,11 @@ var quizJSON = {
 				},
 				{
 					"option": "100<sup>0</sup>સે",
-					"correct": true
+					"correct": false
 				} // no comma here
             ],
 			"correct": "<p><span>તમારો જવાબ સાચો છે.</span> સુંદર</p>",
-			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: 100<sup>0</sup>સે</p>   થોડું ધ્યાન આપો.</p>" // no comma here
+			"incorrect": "<p><span>તમારો જવાબ ખોટો છે.</span><p>સાચો જવાબ: 0<sup>0</sup>સે</p>   થોડું ધ્યાન આપો.</p>" // no comma here
         },
 		{ // Question 3
 			"q": "પાણીમાં બરફનો ટુકડો મૂકતાં શું થાય ?",
