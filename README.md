@@ -1,10 +1,9 @@
 SchoolQuiz
 =============
-Available @ [Ujamshi Khandla's Webiste] http://uckhandla.com/edu/ 
+Available @ [Ujamshi Khandla's Webiste](http://uckhandla.com/edu/)
+
 This is a quiz application for standard 6-7-8.
 The questions of all quiz are based on curriculum of standard 6-7-8 of the Gujarat Government Primary Schools.
-
-
 
 ### NOTE on using this quiz in schools or sharing
 If you use/share this quiz, please do not remove or replace the names of the authors and contributors from the quiz.
