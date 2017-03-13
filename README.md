@@ -16,3 +16,4 @@ For more information or help, please visit [Ujamshi Khandla's Webiste](http://uc
 
 ### Authors and Contributors
 Ujamshi Khandla [@uckhandla](https://github.com/uckhandla) and Mahendra Solanki [@mmsolanki](https://github.com/mmsolanki) founded this SchoolQuiz.
+
